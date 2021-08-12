@@ -4,5 +4,3 @@ class MyClass:
     pass
 class Myclass3:
     pass
-class MyClass4:
-    pass
