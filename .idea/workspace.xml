@@ -24,6 +24,7 @@
       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App1/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/App1/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1628773988837</updated>
       <workItem from="1628773990166" duration="2529000" />
-      <workItem from="1628776763703" duration="483000" />
+      <workItem from="1628776763703" duration="1161000" />
     </task>
     <task id="LOCAL-00001" summary="name of class">
       <created>1628775102402</created>
